@@ -30,7 +30,7 @@
 
 - Đăng nhập GitHub: [github.com](https://github.com)
 - Nhấn **New repository** (📦)
-- Đặt tên repo, chọn Public hoặc Private, rồi nhấn **Create repository**
+- Đặt tên duanphanmem, chọn Public hoặc Private, rồi nhấn **Create repository**
 
 ---
 
@@ -38,7 +38,7 @@
 
 - Lấy bản sao repository về máy:
   ```bash
-  git clone https://github.com/username/repository.git
+  git clone https://github.com/nguyencatnhat/duanphanmem.git
   cd repository
   ```
 
