@@ -33,7 +33,7 @@ git config --global user.email "email@example.com"
 ## 📥 4. Clone repository về máy
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/nguyencatnhat/duanphanmemy.git
 cd repository
 ```
 
